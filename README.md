@@ -1,2 +1,2 @@
 # hello-word
-creat first Repository
+Ha noi university of science and technology
